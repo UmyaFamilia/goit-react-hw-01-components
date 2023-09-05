@@ -1,0 +1,19 @@
+.img{
+  width: 300px;
+}
+.profile{
+  display: inline-block;
+}
+.descriptions{
+display: flex;
+flex-direction: column;
+    align-items: center;
+}
+.stats{
+  display: flex;
+  justify-content: space-around;
+}
+.item{
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,13 @@
+.status{
+  display: block;
+  border-radius: 17px;
+  background-color: greenyellow;
+  width: 20px;
+  height: 20px;
+}
+.item{
+  justify-content: space-around;
+  display: flex;
+  align-items: center;
+  width: 200px;
+}
