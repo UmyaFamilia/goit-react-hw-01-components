@@ -1,9 +1,9 @@
-.list{
+.list {
   display: flex;
   justify-content: space-around;
 }
-.item{
+.item {
   display: flex;
   flex-direction: column;
-
+  width: 100%;
 }

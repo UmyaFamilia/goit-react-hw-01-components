@@ -1,11 +1,17 @@
-.status{
+.status {
   display: block;
   border-radius: 17px;
   background-color: greenyellow;
   width: 20px;
   height: 20px;
 }
-.item{
+.status.online {
+  background-color: greenyellow;
+}
+.status.offline {
+  background-color: red;
+}
+.item {
   justify-content: space-around;
   display: flex;
   align-items: center;
